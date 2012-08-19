@@ -1,0 +1,19 @@
+{
+	"author": "gxcsoccer <gxcsoccer@126.com> (http://gxcsoccer.github.com)",
+	"name": "ypig",
+	"description": "This is a game named \"You paint, I guess\"",
+	"version": "0.0.0",
+	"homepage": "�https://github.com/gxcsoccer/ypig",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/gxcsoccer/ypig.git"
+	},
+	"engines": {
+		"node": "0.8.*"
+	},
+	"dependencies": {
+		"express": "latest",
+		"socket.io": "latest"
+	},
+	"devDependencies": {}
+}
