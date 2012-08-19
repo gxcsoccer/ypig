@@ -3,13 +3,14 @@
 	"name": "ypig",
 	"description": "This is a game named \"You paint, I guess\"",
 	"version": "0.0.0",
-	"homepage": "�https://github.com/gxcsoccer/ypig",
+	"homepage": "https://github.com/gxcsoccer/ypig",
 	"repository": {
 		"type": "git",
 		"url": "git://github.com/gxcsoccer/ypig.git"
 	},
 	"engines": {
-		"node": "0.8.*"
+		"node": "0.8.x",
+		"npm": "1.1.x"
 	},
 	"dependencies": {
 		"express": "latest",
